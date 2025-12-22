@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CamEra</string>
+    <string name="video_uploaded">Uploaded</string>
+    <string name="video_upload">Upload</string>
+    <string name="video_uploading">Uploading...</string>
+    <string name="error_video_not_found">Video not found</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>
